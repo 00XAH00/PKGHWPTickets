@@ -1,0 +1,876 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Videographer",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Video Single",
+            "screenshot": "screenshots\/video-single.jpg",
+            "source": "templates\/video-single-a68cd936d68fab750d918c0e039348cc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Videos (Pro)",
+            "screenshot": "screenshots\/videos-pro-.jpg",
+            "source": "templates\/videos-pro-664dd8029d1ce778de34976b86a0679b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Support (Pro)",
+            "screenshot": "screenshots\/support-pro-.jpg",
+            "source": "templates\/support-pro-10909f2a3870d43be968a3063e00d14e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Licenses",
+            "screenshot": "screenshots\/licenses.jpg",
+            "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Request Quote (Pro)",
+            "screenshot": "screenshots\/request-quote-pro-.jpg",
+            "source": "templates\/request-quote-pro-5623c2f2279713b415fa17cb5bee7fe2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-88de9c741c2c64f62804be87250d16d2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact (Pro)",
+            "screenshot": "screenshots\/contact-pro-.jpg",
+            "source": "templates\/contact-pro-0543081a1a814c0e40d2ca88bd9dd816.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "benjamin-voros-phIFdC6lA4E-unsplash-1-e1598264127679.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/benjamin-voros-phIFdC6lA4E-unsplash-1-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 355055,
+            "dimensions": [
+                1600,
+                900
+            ]
+        },
+        {
+            "filename": "daniel-leone-v7daTKlZzaw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/daniel-leone-v7daTKlZzaw-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/videos-pro-664dd8029d1ce778de34976b86a0679b.json",
+                    "name": "Videos (Pro)"
+                }
+            ],
+            "filesize": 121998,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "casey-horner-CyhYe8B9PuY-unsplash-e1598263889581.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/casey-horner-CyhYe8B9PuY-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 395989,
+            "dimensions": [
+                1600,
+                900
+            ]
+        },
+        {
+            "filename": "sean-pollock-PhYq704ffdA-unsplash-alt-e1598263704755.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/sean-pollock-PhYq704ffdA-unsplash-alt-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 446870,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "viktor-jakovlev-mtNweauBsMQ-unsplash-e1598263749259.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/viktor-jakovlev-mtNweauBsMQ-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/request-quote-pro-5623c2f2279713b415fa17cb5bee7fe2.json",
+                    "name": "Request Quote (Pro)"
+                },
+                {
+                    "source": "templates\/contact-pro-0543081a1a814c0e40d2ca88bd9dd816.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 138101,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "matt-barringer-MJceEjgpauU-unsplash-e1598263812971.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/matt-barringer-MJceEjgpauU-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/videos-pro-664dd8029d1ce778de34976b86a0679b.json",
+                    "name": "Videos (Pro)"
+                },
+                {
+                    "source": "templates\/request-quote-pro-5623c2f2279713b415fa17cb5bee7fe2.json",
+                    "name": "Request Quote (Pro)"
+                }
+            ],
+            "filesize": 376181,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "james-adams-tNrzxTG2-Ac-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/james-adams-tNrzxTG2-Ac-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 359679,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "ahmed-saeed-EQcZQzew9e0-unsplash-e1598263904413.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/ahmed-saeed-EQcZQzew9e0-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 492143,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "ethan-dow-6EljUULo4FQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/ethan-dow-6EljUULo4FQ-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 373067,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "tim-mossholder-2Ioi7wkj85U-unsplash-e1598263799276.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/tim-mossholder-2Ioi7wkj85U-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 407245,
+            "dimensions": [
+                1600,
+                900
+            ]
+        },
+        {
+            "filename": "daniel-svoboda-Oru9FY1X7eg-unsplash-e1598263763306.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/daniel-svoboda-Oru9FY1X7eg-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/request-quote-pro-5623c2f2279713b415fa17cb5bee7fe2.json",
+                    "name": "Request Quote (Pro)"
+                }
+            ],
+            "filesize": 300980,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "samuel-zeller-O8dKwgPSSUk-unsplash-alt-e1598263720424.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/samuel-zeller-O8dKwgPSSUk-unsplash-alt-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 318093,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "daniel-apodaca-NwCIEX2UIL0-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/daniel-apodaca-NwCIEX2UIL0-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/videos-pro-664dd8029d1ce778de34976b86a0679b.json",
+                    "name": "Videos (Pro)"
+                }
+            ],
+            "filesize": 149202,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "roan-lavery-p9tE8gHjd6s-unsplash-e1598263736438.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/roan-lavery-p9tE8gHjd6s-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 292667,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "ampersand-creative-co-pp_oXEb2H48-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/ampersand-creative-co-pp_oXEb2H48-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                }
+            ],
+            "filesize": 424789,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "james-adams-zUSY6EgCRHo-unsplash-e1598263774535.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/james-adams-zUSY6EgCRHo-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/videos-pro-664dd8029d1ce778de34976b86a0679b.json",
+                    "name": "Videos (Pro)"
+                },
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 271324,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "oleg-laptev-7jQh3EiS8Bs-unsplash-e1598264026237.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/oleg-laptev-7jQh3EiS8Bs-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 311039,
+            "dimensions": [
+                1900,
+                1268
+            ]
+        },
+        {
+            "filename": "alex-blajan-zqSHkBQpfJc-unsplash-alt-e1598263678191.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/alex-blajan-zqSHkBQpfJc-unsplash-alt-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/videos-pro-664dd8029d1ce778de34976b86a0679b.json",
+                    "name": "Videos (Pro)"
+                }
+            ],
+            "filesize": 141649,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "kal-visuals-LqPjuN4nCTI-unsplash-alt-e1598263621201.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/kal-visuals-LqPjuN4nCTI-unsplash-alt-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/video-single-a68cd936d68fab750d918c0e039348cc.json",
+                    "name": "Video Single"
+                },
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 208992,
+            "dimensions": [
+                1900,
+                1269
+            ]
+        },
+        {
+            "filename": "kal-visuals-BJwTdcRQpmk-unsplash-e1598263636498.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/kal-visuals-BJwTdcRQpmk-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 164947,
+            "dimensions": [
+                1900,
+                1269
+            ]
+        },
+        {
+            "filename": "jakob-owens-UJ8Bt-r6atw-unsplash-e1598263664834.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/jakob-owens-UJ8Bt-r6atw-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/video-single-a68cd936d68fab750d918c0e039348cc.json",
+                    "name": "Video Single"
+                },
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                },
+                {
+                    "source": "templates\/request-quote-pro-5623c2f2279713b415fa17cb5bee7fe2.json",
+                    "name": "Request Quote (Pro)"
+                }
+            ],
+            "filesize": 459470,
+            "dimensions": [
+                1900,
+                1269
+            ]
+        },
+        {
+            "filename": "logo-03.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 8623,
+            "dimensions": [
+                500,
+                300
+            ]
+        },
+        {
+            "filename": "logo-5-4.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/logo-5-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 5171,
+            "dimensions": [
+                500,
+                281
+            ]
+        },
+        {
+            "filename": "logo-06.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/logo-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8307,
+            "dimensions": [
+                500,
+                300
+            ]
+        },
+        {
+            "filename": "logo-07.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/logo-07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 9891,
+            "dimensions": [
+                500,
+                300
+            ]
+        },
+        {
+            "filename": "logo-2-3.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/logo-2-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-57473212fe61a1883d44a336705423b5.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3901,
+            "dimensions": [
+                500,
+                281
+            ]
+        },
+        {
+            "filename": "kym-ellis-RPT3AjdXlZc-unsplash-e1598264320296.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/kym-ellis-RPT3AjdXlZc-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/video-single-a68cd936d68fab750d918c0e039348cc.json",
+                    "name": "Video Single"
+                },
+                {
+                    "source": "templates\/contact-88de9c741c2c64f62804be87250d16d2.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 336699,
+            "dimensions": [
+                1600,
+                900
+            ]
+        },
+        {
+            "filename": "screenshot-80-1571644611.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/screenshot-80-1571644611-500x962.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/contact-pro-0543081a1a814c0e40d2ca88bd9dd816.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": false,
+            "dimensions": [
+                1366,
+                2627
+            ]
+        },
+        {
+            "filename": "screenshot-5-1571644532.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/screenshot-5-1571644532-500x1476.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/contact-pro-0543081a1a814c0e40d2ca88bd9dd816.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": false,
+            "dimensions": [
+                1366,
+                4032
+            ]
+        },
+        {
+            "filename": "screenshot-73-1571644578.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/screenshot-73-1571644578-500x1552.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-c546fdeeced3afdcf048d04ec6a52c99.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/contact-pro-0543081a1a814c0e40d2ca88bd9dd816.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": false,
+            "dimensions": [
+                1366,
+                4240
+            ]
+        },
+        {
+            "filename": "iler-stoe-iEAvKBfqD8c-unsplash-e1598264277145.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/iler-stoe-iEAvKBfqD8c-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/video-single-a68cd936d68fab750d918c0e039348cc.json",
+                    "name": "Video Single"
+                },
+                {
+                    "source": "templates\/support-pro-10909f2a3870d43be968a3063e00d14e.json",
+                    "name": "Support (Pro)"
+                }
+            ],
+            "filesize": 295343,
+            "dimensions": [
+                1600,
+                1069
+            ]
+        },
+        {
+            "filename": "jeremy-cai-W8R_7-01QS0-unsplash-e1598264265884.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/jeremy-cai-W8R_7-01QS0-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/video-single-a68cd936d68fab750d918c0e039348cc.json",
+                    "name": "Video Single"
+                }
+            ],
+            "filesize": 203029,
+            "dimensions": [
+                1600,
+                1069
+            ]
+        },
+        {
+            "filename": "logo-4-4.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/logo-4-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-bcdf1760ec94409027403860ca158533.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4953,
+            "dimensions": [
+                500,
+                281
+            ]
+        },
+        {
+            "filename": "joshua-fuller-SFRVfLZ7ORo-unsplash-e1598264227978.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/joshua-fuller-SFRVfLZ7ORo-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/video-single-a68cd936d68fab750d918c0e039348cc.json",
+                    "name": "Video Single"
+                }
+            ],
+            "filesize": 401359,
+            "dimensions": [
+                1600,
+                900
+            ]
+        },
+        {
+            "filename": "benjamin-voros-phIFdC6lA4E-unsplash-e1598264140125.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/benjamin-voros-phIFdC6lA4E-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/videos-pro-664dd8029d1ce778de34976b86a0679b.json",
+                    "name": "Videos (Pro)"
+                }
+            ],
+            "filesize": 308981,
+            "dimensions": [
+                1600,
+                900
+            ]
+        },
+        {
+            "filename": "john-towner-JgOeRuGD_Y4-unsplash-e1598264295199.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/john-towner-JgOeRuGD_Y4-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 305922,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "logo-08.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/193\/2019\/09\/logo-08.png",
+            "templates": [
+                {
+                    "source": "templates\/licenses-4730df7f0c4a48665b8c589e861923d6.json",
+                    "name": "Licenses"
+                }
+            ],
+            "filesize": 8791,
+            "dimensions": [
+                500,
+                300
+            ]
+        }
+    ]
+}
