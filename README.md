@@ -1,2 +1,3 @@
 # PKGHWPTickets
-PKGHWPTickets
+PKGHWPTickets сайт для прожаи билетов на различные меропрития разработанный на учебной практике pkgh
+
